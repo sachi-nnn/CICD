@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sachi-nnn/CICD/issues"
   },
-  "homepage": "https://github.com/sachi-nnn/CICD#readme"
+  "homepage": "https://github.com/sachi-nnn/CICD#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
